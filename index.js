@@ -1,9 +1,10 @@
 function theBeatlesPlay(musicians,inst){
-  const array = []
+  var array = []
   for(var a = 0; a< musicians.length ;a++) {
-        array.push(      musicians[a] + " plays " + inst[a])
-                  return array
+     var str = musicians[a] + " plays " + inst[a]
+        array.push(str)
 
        }
+                  return array
 
   }
