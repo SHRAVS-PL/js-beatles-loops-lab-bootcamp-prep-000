@@ -8,5 +8,3 @@ function theBeatlesPlay(musicians,inst){
        }
 
   }
-
-  }
